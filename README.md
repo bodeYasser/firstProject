@@ -1,4 +1,4 @@
 # firstProject
 
-##new project
+## new project
 ### try explore the features
